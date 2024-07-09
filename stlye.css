@@ -1,0 +1,152 @@
+element.style {
+}
+<style>
+:root {
+    --adhesion-background-color: rgba(250, 250, 250, 0.9);
+}
+<style>
+:root {
+    --fides-overlay-primary-color: #8243f2;
+    --fides-overlay-background-color: #f7fafc;
+    --fides-overlay-embed-background-color: transparent;
+    --fides-overlay-font-color: #4a5568;
+    --fides-overlay-font-color-dark: #2d3748;
+    --fides-overlay-hover-color: #edf2f7;
+    --fides-overlay-gpc-applied-background-color: #38a169;
+    --fides-overlay-gpc-applied-text-color: #fff;
+    --fides-overlay-gpc-overridden-background-color: #e53e3e;
+    --fides-overlay-gpc-overridden-text-color: #fff;
+    --fides-overlay-background-dark-color: #e2e8f0;
+    --fides-overlay-width: 680px;
+    --fides-overlay-primary-button-background-color: var(--fides-overlay-primary-color);
+    --fides-overlay-primary-button-background-hover-color: #9569f4;
+    --fides-overlay-primary-button-text-color: #fff;
+    --fides-overlay-primary-button-border-color: transparent;
+    --fides-overlay-secondary-button-background-color: var(--fides-overlay-background-color);
+    --fides-overlay-secondary-button-background-hover-color: var(--fides-overlay-hover-color);
+    --fides-overlay-secondary-button-text-color: #2d3748;
+    --fides-overlay-secondary-button-border-color: var(--fides-overlay-primary-color);
+    --fides-overlay-title-font-color: var(--fides-overlay-font-color);
+    --fides-overlay-body-font-color: var(--fides-overlay-font-color);
+    --fides-overlay-link-font-color: var(--fides-overlay-font-color-dark);
+    --fides-overlay-primary-active-color: var(--fides-overlay-primary-color);
+    --fides-overlay-inactive-color: #e2e8f0;
+    --fides-overlay-inactive-font-color: #a0aec0;
+    --fides-overlay-disabled-color: #e1e7ee;
+    --fides-overlay-row-divider-color: #e2e8f0;
+    --fides-overlay-row-hover-color: var(--fides-overlay-hover-color);
+    --fides-overlay-badge-background-color: #718096;
+    --fides-overlay-badge-border-radius: 4px;
+    --fides-overlay-select-border-color: #e2e8f0;
+    --fides-overlay-language-button-border-radius: 4px;
+    --fides-overlay-font-family: Inter, sans-serif;
+    --12px: 0.75rem;
+    --14px: 0.875rem;
+    --15px: 0.9375rem;
+    --16px: 1rem;
+    --fides-overlay-font-size-body-small: var(--12px);
+    --fides-overlay-font-size-body: var(--14px);
+    --fides-overlay-font-size-title: var(--16px);
+    --fides-overlay-font-size-buttons: var(--14px);
+    --fides-overlay-padding: 24px;
+    --fides-overlay-button-border-radius: 6px;
+    --fides-overlay-button-padding: 8px 16px;
+    --fides-overlay-link-v-padding: 4px;
+    --fides-overlay-link-h-padding: 4px;
+    --fides-overlay-link-padding: var(--fides-overlay-link-v-padding) var(--fides-overlay-link-h-padding);
+    --fides-overlay-container-border-radius: 12px;
+    --fides-overlay-container-border-width: 1px;
+Show all properties (3 more)
+}
+:root {
+    --wpforms-field-border-radius: 3px;
+    --wpforms-field-background-color: #ffffff;
+    --wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+    --wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+    --wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+    --wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+    --wpforms-label-error-color: #d63637;
+    --wpforms-button-border-radius: 3px;
+    --wpforms-button-background-color: #066aab;
+    --wpforms-button-text-color: #ffffff;
+    --wpforms-page-break-color: #066aab;
+    --wpforms-field-size-input-height: 43px;
+    --wpforms-field-size-input-spacing: 15px;
+    --wpforms-field-size-font-size: 16px;
+    --wpforms-field-size-line-height: 19px;
+    --wpforms-field-size-padding-h: 14px;
+    --wpforms-field-size-checkbox-size: 16px;
+    --wpforms-field-size-sublabel-spacing: 5px;
+    --wpforms-field-size-icon-size: 1;
+    --wpforms-label-size-font-size: 16px;
+    --wpforms-label-size-line-height: 19px;
+    --wpforms-label-size-sublabel-font-size: 14px;
+    --wpforms-label-size-sublabel-line-height: 17px;
+    --wpforms-button-size-font-size: 17px;
+    --wpforms-button-size-height: 41px;
+    --wpforms-button-size-padding-h: 15px;
+    --wpforms-button-size-margin-top: 10px;
+}
+:root {
+    --jetpack--contact-form--border: 1px solid #8c8f94;
+    --jetpack--contact-form--border-color: #8c8f94;
+    --jetpack--contact-form--border-size: 1px;
+    --jetpack--contact-form--border-style: solid;
+    --jetpack--contact-form--border-radius: 0px;
+    --jetpack--contact-form--input-padding: 16px;
+    --jetpack--contact-form--font-size: 16px;
+    --jetpack--contact-form--error-color: #b32d2e;
+    --jetpack--contact-form--inverted-text-color: #fff;
+}
+:root {
+    --jp-carousel-primary-color: #fff;
+    --jp-carousel-primary-subtle-color: #999;
+    --jp-carousel-bg-color: #000;
+    --jp-carousel-bg-faded-color: #222;
+    --jp-carousel-border-color: #3a3a3a;
+}
+:root {
+    --swiper-navigation-size: 44px;
+}
+:root {
+    --swiper-theme-color: #007aff;
+}
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+html {
+    font-size: 16px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+user agent stylesheet
+:root {
+    view-transition-name: root;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
